@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seoung won</h1>
+<h1 align="center">Hi 👋, I'm Seung won</h1>
 <h3 align="center">저는 웹개발을 희망하는 정승원 입니다.</h3>
 
 - 🌱 I’m currently learning **Spring Framework**
